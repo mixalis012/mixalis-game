@@ -1,4 +1,4 @@
-import customtinkinter import*
+from customtinkinter import*
 print('hello')
 win = (CTk)
 
